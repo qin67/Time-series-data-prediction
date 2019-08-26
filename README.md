@@ -1,2 +1,3 @@
 # Time-series-data-prediction
-Water quality parameters prediction 
+ <br>
+Compare several methods including LSTM, GRU, TCN
