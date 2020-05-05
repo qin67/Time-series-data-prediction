@@ -7,3 +7,6 @@ Water Quality Record.csv is the data measured daily in one location by lab<br><b
 What we find:<br>
 1. When dataset is big enough, for the single variable time series prediction, TCN is obviously not as good as LSTM & GRU<br>
 2. LSTM/GRU get the best result when we set the batch size as 1, but when handling large dataset, that would need a long time to train. 
+
+
+In the field of deep learning, time series prediction has strong connection withe the problem of NLP. I generated some notes about current popular models like transformers, BERT, GPT, and more in Zhihu.com. Here are my link:https://www.zhihu.com/people/bei-luo-shi-men-84-2/posts
